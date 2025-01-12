@@ -1,0 +1,4 @@
+jax
+# jax[cuda12]
+jaxmarl
+
